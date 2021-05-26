@@ -10,6 +10,7 @@ import java.util.concurrent.Executors;
 import java.util.stream.Collectors;
 
 import com.occ.name.scoring.entity.Name;
+import com.occ.name.scoring.strategy.factory.NameScoringStrategyFactory;
 import com.occ.name.scoring.strategy.intf.NameScoringStrategy;
 
 public class NameScoringCalculator {

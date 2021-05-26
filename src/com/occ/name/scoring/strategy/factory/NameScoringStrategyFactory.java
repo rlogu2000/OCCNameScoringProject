@@ -1,4 +1,4 @@
-package com.occ.name.scoring.utility;
+package com.occ.name.scoring.strategy.factory;
 
 import com.occ.name.scoring.strategy.impl.ComplexNameScoringStrategy;
 import com.occ.name.scoring.strategy.impl.SimpleNameScoringStrategy;
